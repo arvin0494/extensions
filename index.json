@@ -7689,10 +7689,10 @@
   {
     "name": "Tachiyomi: Atsumaru",
     "pkg": "eu.kanade.tachiyomi.extension.en.atsumaru",
-    "apk": "tachiyomi-en.atsumaru-v1.4.13.apk",
+    "apk": "tachiyomi-en.atsumaru-v1.4.14.apk",
     "lang": "en",
-    "code": 13,
-    "version": "1.4.13",
+    "code": 14,
+    "version": "1.4.14",
     "nsfw": 1,
     "sources": [
       {
@@ -9471,10 +9471,10 @@
   {
     "name": "Tachiyomi: Hive Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.infernalvoidscans",
-    "apk": "tachiyomi-en.infernalvoidscans-v1.4.58.apk",
+    "apk": "tachiyomi-en.infernalvoidscans-v1.4.59.apk",
     "lang": "en",
-    "code": 58,
-    "version": "1.4.58",
+    "code": 59,
+    "version": "1.4.59",
     "nsfw": 0,
     "sources": [
       {
@@ -10256,6 +10256,24 @@
         "lang": "en",
         "id": "4215511432986138970",
         "baseUrl": "https://www.mangabats.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: MangaBlaze",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mangablaze",
+    "apk": "tachiyomi-en.mangablaze-v1.4.45.apk",
+    "lang": "en",
+    "code": 45,
+    "version": "1.4.45",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "MangaBlaze",
+        "lang": "en",
+        "id": "6145388266378605164",
+        "baseUrl": "https://mangablaze.com",
         "versionId": 1
       }
     ]
@@ -17909,10 +17927,10 @@
   {
     "name": "Tachiyomi: Comicazen",
     "pkg": "eu.kanade.tachiyomi.extension.id.comicazen",
-    "apk": "tachiyomi-id.comicazen-v1.4.4.apk",
+    "apk": "tachiyomi-id.comicazen-v1.4.5.apk",
     "lang": "id",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "sources": [
       {
@@ -18791,10 +18809,10 @@
   {
     "name": "Tachiyomi: Medusascans",
     "pkg": "eu.kanade.tachiyomi.extension.id.medusascans",
-    "apk": "tachiyomi-id.medusascans-v1.4.4.apk",
+    "apk": "tachiyomi-id.medusascans-v1.4.5.apk",
     "lang": "id",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 1,
     "sources": [
       {
@@ -21500,21 +21518,21 @@
         "name": "늑대닷컴 - 웹툰",
         "lang": "ko",
         "id": "5583626852311652499",
-        "baseUrl": "https://wfwf448.com",
+        "baseUrl": "https://wfwf449.com",
         "versionId": 1
       },
       {
         "name": "늑대닷컴 - 만화책",
         "lang": "ko",
         "id": "7074060458114951398",
-        "baseUrl": "https://wfwf448.com",
+        "baseUrl": "https://wfwf449.com",
         "versionId": 1
       },
       {
         "name": "늑대닷컴 - 포토툰",
         "lang": "ko",
         "id": "4225505094399546613",
-        "baseUrl": "https://wfwf448.com",
+        "baseUrl": "https://wfwf449.com",
         "versionId": 1
       }
     ]
@@ -22422,10 +22440,10 @@
   {
     "name": "Tachiyomi: Manga Flix",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mangaflix",
-    "apk": "tachiyomi-pt.mangaflix-v1.4.2.apk",
+    "apk": "tachiyomi-pt.mangaflix-v1.4.3.apk",
     "lang": "pt-BR",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 1,
     "sources": [
       {
@@ -23070,10 +23088,10 @@
   {
     "name": "Tachiyomi: Nexus Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.spectralscan",
-    "apk": "tachiyomi-pt.spectralscan-v1.4.59.apk",
+    "apk": "tachiyomi-pt.spectralscan-v1.4.60.apk",
     "lang": "pt-BR",
-    "code": 59,
-    "version": "1.4.59",
+    "code": 60,
+    "version": "1.4.60",
     "nsfw": 1,
     "sources": [
       {

@@ -4218,10 +4218,10 @@
   {
     "name": "Tachiyomi: Manhuarm",
     "pkg": "eu.kanade.tachiyomi.extension.all.manhuarm",
-    "apk": "tachiyomi-all.manhuarm-v1.4.63.apk",
+    "apk": "tachiyomi-all.manhuarm-v1.4.64.apk",
     "lang": "all",
-    "code": 63,
-    "version": "1.4.63",
+    "code": 64,
+    "version": "1.4.64",
     "nsfw": 1,
     "sources": [
       {
@@ -13333,6 +13333,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: ReiManga",
+    "pkg": "eu.kanade.tachiyomi.extension.en.reimanga",
+    "apk": "tachiyomi-en.reimanga-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "ReiManga",
+        "lang": "en",
+        "id": "5627909338430537186",
+        "baseUrl": "https://reimanga.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Renascans",
     "pkg": "eu.kanade.tachiyomi.extension.en.renascans",
     "apk": "tachiyomi-en.renascans-v1.4.18.apk",
@@ -17993,10 +18011,10 @@
   {
     "name": "Tachiyomi: Astral Scans",
     "pkg": "eu.kanade.tachiyomi.extension.id.astralscans",
-    "apk": "tachiyomi-id.astralscans-v1.4.35.apk",
+    "apk": "tachiyomi-id.astralscans-v1.4.36.apk",
     "lang": "id",
-    "code": 35,
-    "version": "1.4.35",
+    "code": 36,
+    "version": "1.4.36",
     "nsfw": 1,
     "sources": [
       {
@@ -26196,10 +26214,10 @@
   {
     "name": "Tachiyomi: Zenko",
     "pkg": "eu.kanade.tachiyomi.extension.uk.zenko",
-    "apk": "tachiyomi-uk.zenko-v1.4.3.apk",
+    "apk": "tachiyomi-uk.zenko-v1.4.4.apk",
     "lang": "uk",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 1,
     "sources": [
       {

@@ -16254,10 +16254,10 @@
   {
     "name": "Tachiyomi: LeerCapitulo",
     "pkg": "eu.kanade.tachiyomi.extension.es.leercapitulo",
-    "apk": "tachiyomi-es.leercapitulo-v1.4.15.apk",
+    "apk": "tachiyomi-es.leercapitulo-v1.4.16.apk",
     "lang": "es",
-    "code": 15,
-    "version": "1.4.15",
+    "code": 16,
+    "version": "1.4.16",
     "nsfw": 0,
     "sources": [
       {
@@ -16470,10 +16470,10 @@
   {
     "name": "Tachiyomi: Mangas.in",
     "pkg": "eu.kanade.tachiyomi.extension.es.mangasin",
-    "apk": "tachiyomi-es.mangasin-v1.4.17.apk",
+    "apk": "tachiyomi-es.mangasin-v1.4.18.apk",
     "lang": "es",
-    "code": 17,
-    "version": "1.4.17",
+    "code": 18,
+    "version": "1.4.18",
     "nsfw": 1,
     "sources": [
       {
@@ -16488,10 +16488,10 @@
   {
     "name": "Tachiyomi: Mangas No Sekai",
     "pkg": "eu.kanade.tachiyomi.extension.es.mangasnosekai",
-    "apk": "tachiyomi-es.mangasnosekai-v1.4.63.apk",
+    "apk": "tachiyomi-es.mangasnosekai-v1.4.64.apk",
     "lang": "es",
-    "code": 63,
-    "version": "1.4.63",
+    "code": 64,
+    "version": "1.4.64",
     "nsfw": 0,
     "sources": [
       {
@@ -23863,10 +23863,10 @@
   {
     "name": "Tachiyomi: Sakura Mangás",
     "pkg": "eu.kanade.tachiyomi.extension.pt.sakuramangas",
-    "apk": "tachiyomi-pt.sakuramangas-v1.4.4.apk",
+    "apk": "tachiyomi-pt.sakuramangas-v1.4.5.apk",
     "lang": "pt-BR",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 1,
     "sources": [
       {

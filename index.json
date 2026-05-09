@@ -12683,10 +12683,10 @@
   {
     "name": "Tachiyomi: New Manhwa",
     "pkg": "eu.kanade.tachiyomi.extension.en.newmanhwa",
-    "apk": "tachiyomi-en.newmanhwa-v1.4.32.apk",
+    "apk": "tachiyomi-en.newmanhwa-v1.4.33.apk",
     "lang": "en",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 1,
     "sources": [
       {
@@ -18097,10 +18097,10 @@
   {
     "name": "Tachiyomi: MangaMoins",
     "pkg": "eu.kanade.tachiyomi.extension.fr.mangamoins",
-    "apk": "tachiyomi-fr.mangamoins-v1.4.5.apk",
+    "apk": "tachiyomi-fr.mangamoins-v1.4.6.apk",
     "lang": "fr",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 0,
     "sources": [
       {

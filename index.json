@@ -17010,10 +17010,10 @@
   {
     "name": "Tachiyomi: ONF MANGAS",
     "pkg": "eu.kanade.tachiyomi.extension.es.onfmangas",
-    "apk": "tachiyomi-es.onfmangas-v1.4.3.apk",
+    "apk": "tachiyomi-es.onfmangas-v1.4.4.apk",
     "lang": "es",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 1,
     "sources": [
       {

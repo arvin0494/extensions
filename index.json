@@ -4099,6 +4099,31 @@
     ]
   },
   {
+    "name": "Tachiyomi: MangaDNA",
+    "pkg": "eu.kanade.tachiyomi.extension.all.mangadna",
+    "apk": "tachiyomi-all.mangadna-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "MangaDNA",
+        "lang": "en",
+        "id": "5181311401760417052",
+        "baseUrl": "https://mangadna.com",
+        "versionId": 1
+      },
+      {
+        "name": "MangaDNA",
+        "lang": "all",
+        "id": "6255493077716027174",
+        "baseUrl": "https://mangadna.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Manga Draft",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangadraft",
     "apk": "tachiyomi-all.mangadraft-v1.4.1.apk",
@@ -6463,10 +6488,10 @@
   {
     "name": "Tachiyomi: XGMN",
     "pkg": "eu.kanade.tachiyomi.extension.all.xgmn",
-    "apk": "tachiyomi-all.xgmn-v1.4.2.apk",
+    "apk": "tachiyomi-all.xgmn-v1.4.3.apk",
     "lang": "all",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 1,
     "sources": [
       {
@@ -10798,6 +10823,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Mangack",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mangack",
+    "apk": "tachiyomi-en.mangack-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Mangack",
+        "lang": "en",
+        "id": "7208855238528281651",
+        "baseUrl": "https://mangack.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: MangaClash",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangaclash",
     "apk": "tachiyomi-en.mangaclash-v1.4.55.apk",
@@ -10944,10 +10987,10 @@
   {
     "name": "Tachiyomi: Mangadotnet",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangadotnet",
-    "apk": "tachiyomi-en.mangadotnet-v1.4.4.apk",
+    "apk": "tachiyomi-en.mangadotnet-v1.4.5.apk",
     "lang": "en",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 1,
     "sources": [
       {
@@ -13320,18 +13363,18 @@
   {
     "name": "Tachiyomi: Philia Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.philiascans",
-    "apk": "tachiyomi-en.philiascans-v1.4.52.apk",
+    "apk": "tachiyomi-en.philiascans-v1.4.53.apk",
     "lang": "en",
-    "code": 52,
-    "version": "1.4.52",
+    "code": 53,
+    "version": "1.4.53",
     "nsfw": 0,
     "sources": [
       {
         "name": "Philia Scans",
         "lang": "en",
-        "id": "940450670010209918",
+        "id": "2169580002690693441",
         "baseUrl": "https://philiascans.org",
-        "versionId": 3
+        "versionId": 4
       }
     ]
   },
@@ -19686,6 +19729,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Ono",
+    "pkg": "eu.kanade.tachiyomi.extension.fr.ono",
+    "apk": "tachiyomi-fr.ono-v1.4.1.apk",
+    "lang": "fr",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Ono",
+        "lang": "fr",
+        "id": "4944745470170824284",
+        "baseUrl": "https://www.ono.live",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Ortega Scans",
     "pkg": "eu.kanade.tachiyomi.extension.fr.ortegascans",
     "apk": "tachiyomi-fr.ortegascans-v1.4.1.apk",
@@ -20046,6 +20107,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Twatt",
+    "pkg": "eu.kanade.tachiyomi.extension.fr.twatt",
+    "apk": "tachiyomi-fr.twatt-v1.4.1.apk",
+    "lang": "fr",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Twatt",
+        "lang": "fr",
+        "id": "5157242904926355900",
+        "baseUrl": "https://twatt.fr",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: YaoiScan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.yaoiscan",
     "apk": "tachiyomi-fr.yaoiscan-v1.4.33.apk",
@@ -20264,10 +20343,10 @@
   {
     "name": "Tachiyomi: DoujinDesu",
     "pkg": "eu.kanade.tachiyomi.extension.id.doujindesu",
-    "apk": "tachiyomi-id.doujindesu-v1.4.13.apk",
+    "apk": "tachiyomi-id.doujindesu-v1.4.14.apk",
     "lang": "id",
-    "code": 13,
-    "version": "1.4.13",
+    "code": 14,
+    "version": "1.4.14",
     "nsfw": 1,
     "sources": [
       {
@@ -23509,6 +23588,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Sokuyomi",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.sokuyomi",
+    "apk": "tachiyomi-ja.sokuyomi-v1.4.1.apk",
+    "lang": "ja",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Sokuyomi",
+        "lang": "ja",
+        "id": "3115293328774708452",
+        "baseUrl": "https://sokuyomi.jp",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Sunday Web Every",
     "pkg": "eu.kanade.tachiyomi.extension.ja.sundaywebevery",
     "apk": "tachiyomi-ja.sundaywebevery-v1.4.9.apk",
@@ -24122,10 +24219,10 @@
   {
     "name": "Tachiyomi: Bakai",
     "pkg": "eu.kanade.tachiyomi.extension.pt.bakai",
-    "apk": "tachiyomi-pt.bakai-v1.4.15.apk",
+    "apk": "tachiyomi-pt.bakai-v1.4.16.apk",
     "lang": "pt-BR",
-    "code": 15,
-    "version": "1.4.15",
+    "code": 16,
+    "version": "1.4.16",
     "nsfw": 1,
     "sources": [
       {
@@ -30094,10 +30191,10 @@
   {
     "name": "Tachiyomi: Happymh",
     "pkg": "eu.kanade.tachiyomi.extension.zh.happymh",
-    "apk": "tachiyomi-zh.happymh-v1.4.21.apk",
+    "apk": "tachiyomi-zh.happymh-v1.4.22.apk",
     "lang": "zh",
-    "code": 21,
-    "version": "1.4.21",
+    "code": 22,
+    "version": "1.4.22",
     "nsfw": 0,
     "sources": [
       {

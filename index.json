@@ -6897,12 +6897,12 @@
       "name": "Comic Verse",
       "packageName": "eu.kanade.tachiyomi.extension.ar.comicverse",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ar.comicverse-v1.4.13.apk",
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ar.comicverse-v1.4.14.apk",
         "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ar.comicverse.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 13,
-      "versionName": "1.4.13",
+      "versionCode": 14,
+      "versionName": "1.4.14",
       "sources": [
         {
           "id": "7487319247633385575",
@@ -22465,18 +22465,18 @@
       "name": "Manhwa List",
       "packageName": "eu.kanade.tachiyomi.extension.id.manhwalistid",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.manhwalistid-v1.4.37.apk",
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.manhwalistid-v1.4.38.apk",
         "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.manhwalistid.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 37,
-      "versionName": "1.4.37",
+      "versionCode": 38,
+      "versionName": "1.4.38",
       "sources": [
         {
           "id": "3111049819536223391",
           "name": "Manhwa List",
           "language": "id",
-          "homeUrl": "https://manhwalist02.site"
+          "homeUrl": "https://manhwalist02.asia"
         }
       ]
     },
@@ -29916,18 +29916,18 @@
       "name": "Moon Daisy Scans",
       "packageName": "eu.kanade.tachiyomi.extension.tr.moondaisyscans",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-tr.moondaisyscans-v1.4.35.apk",
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-tr.moondaisyscans-v1.4.36.apk",
         "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.tr.moondaisyscans.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 35,
-      "versionName": "1.4.35",
+      "versionCode": 36,
+      "versionName": "1.4.36",
       "sources": [
         {
           "id": "2732049206654972364",
           "name": "Moon Daisy Scans",
           "language": "tr",
-          "homeUrl": "https://moondaisyscans.lol",
+          "homeUrl": "https://moondaisyscans.site",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         }
       ]

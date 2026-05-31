@@ -32440,6 +32440,26 @@
       ]
     },
     {
+      "name": "Shenshi Huisuo",
+      "packageName": "eu.kanade.tachiyomi.extension.zh.hentaiclub",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-zh.hentaiclub-v1.4.1.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.zh.hentaiclub.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 1,
+      "versionName": "1.4.1",
+      "sources": [
+        {
+          "id": "8618065660246087865",
+          "name": "\u7ec5\u58eb\u4f1a\u6240",
+          "language": "zh",
+          "homeUrl": "https://www.hentaiclub.net",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
       "name": "Iqiyi",
       "packageName": "eu.kanade.tachiyomi.extension.zh.iqiyi",
       "resources": {

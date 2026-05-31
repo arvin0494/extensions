@@ -14618,12 +14618,12 @@
       "name": "Reset Scans",
       "packageName": "eu.kanade.tachiyomi.extension.en.resetscans",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.resetscans-v1.4.60.apk",
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.resetscans-v1.4.61.apk",
         "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.resetscans.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 60,
-      "versionName": "1.4.60",
+      "versionCode": 61,
+      "versionName": "1.4.61",
       "sources": [
         {
           "id": "8358008083447218926",

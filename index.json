@@ -8344,26 +8344,6 @@
       ]
     },
     {
-      "name": "BoxManhwa",
-      "packageName": "eu.kanade.tachiyomi.extension.en.boxmanhwa",
-      "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.boxmanhwa-v1.4.23.apk",
-        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.boxmanhwa.png"
-      },
-      "extensionLib": "1.4",
-      "versionCode": 23,
-      "versionName": "1.4.23",
-      "sources": [
-        {
-          "id": "7888539760648428292",
-          "name": "BoxManhwa",
-          "language": "en",
-          "homeUrl": "https://boxmanhwa.com",
-          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
-        }
-      ]
-    },
-    {
       "name": "Broccoli Soup",
       "packageName": "eu.kanade.tachiyomi.extension.en.broccolisoup",
       "resources": {
@@ -11164,41 +11144,21 @@
       ]
     },
     {
-      "name": "MangaBuddy",
+      "name": "MangaK",
       "packageName": "eu.kanade.tachiyomi.extension.en.mangabuddy",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.mangabuddy-v1.4.25.apk",
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.mangabuddy-v1.4.26.apk",
         "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangabuddy.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 25,
-      "versionName": "1.4.25",
+      "versionCode": 26,
+      "versionName": "1.4.26",
       "sources": [
         {
           "id": "5020395055978987501",
-          "name": "MangaBuddy",
+          "name": "MangaK",
           "language": "en",
-          "homeUrl": "https://mangabuddy.com",
-          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
-        }
-      ]
-    },
-    {
-      "name": "MangaBuddy.me",
-      "packageName": "eu.kanade.tachiyomi.extension.en.mangabuddyme",
-      "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.mangabuddyme-v1.4.23.apk",
-        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangabuddyme.png"
-      },
-      "extensionLib": "1.4",
-      "versionCode": 23,
-      "versionName": "1.4.23",
-      "sources": [
-        {
-          "id": "3129618101835856717",
-          "name": "MangaBuddy.me",
-          "language": "en",
-          "homeUrl": "https://mangabuddy.me",
+          "homeUrl": "https://mangak.io",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         }
       ]
@@ -11258,26 +11218,6 @@
           "name": "MangaCloud",
           "language": "en",
           "homeUrl": "https://mangacloud.org"
-        }
-      ]
-    },
-    {
-      "name": "MangaCute",
-      "packageName": "eu.kanade.tachiyomi.extension.en.mangacute",
-      "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.mangacute-v1.4.23.apk",
-        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangacute.png"
-      },
-      "extensionLib": "1.4",
-      "versionCode": 23,
-      "versionName": "1.4.23",
-      "sources": [
-        {
-          "id": "1204045526622450795",
-          "name": "MangaCute",
-          "language": "en",
-          "homeUrl": "https://mangacute.com",
-          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         }
       ]
     },
@@ -11415,46 +11355,6 @@
           "name": "Manga Drama",
           "language": "en",
           "homeUrl": "https://mangadrama.com",
-          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
-        }
-      ]
-    },
-    {
-      "name": "MangaFab",
-      "packageName": "eu.kanade.tachiyomi.extension.en.mangafab",
-      "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.mangafab-v1.4.23.apk",
-        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangafab.png"
-      },
-      "extensionLib": "1.4",
-      "versionCode": 23,
-      "versionName": "1.4.23",
-      "sources": [
-        {
-          "id": "4316111960224645667",
-          "name": "MangaFab",
-          "language": "en",
-          "homeUrl": "https://mangafab.com",
-          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
-        }
-      ]
-    },
-    {
-      "name": "MangaForest",
-      "packageName": "eu.kanade.tachiyomi.extension.en.mangaforest",
-      "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.mangaforest-v1.4.24.apk",
-        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangaforest.png"
-      },
-      "extensionLib": "1.4",
-      "versionCode": 24,
-      "versionName": "1.4.24",
-      "sources": [
-        {
-          "id": "3820910697694151196",
-          "name": "MangaForest",
-          "language": "en",
-          "homeUrl": "https://mangaforest.me",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         }
       ]
@@ -11914,26 +11814,6 @@
       ]
     },
     {
-      "name": "MangaMonk",
-      "packageName": "eu.kanade.tachiyomi.extension.en.mangamonk",
-      "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.mangamonk-v1.4.23.apk",
-        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangamonk.png"
-      },
-      "extensionLib": "1.4",
-      "versionCode": 23,
-      "versionName": "1.4.23",
-      "sources": [
-        {
-          "id": "8891699085815827079",
-          "name": "MangaMonk",
-          "language": "en",
-          "homeUrl": "https://mangamonk.com",
-          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
-        }
-      ]
-    },
-    {
       "name": "MangaNel",
       "packageName": "eu.kanade.tachiyomi.extension.en.manganel",
       "resources": {
@@ -12073,26 +11953,6 @@
       ]
     },
     {
-      "name": "MangaPuma",
-      "packageName": "eu.kanade.tachiyomi.extension.en.mangapuma",
-      "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.mangapuma-v1.4.25.apk",
-        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangapuma.png"
-      },
-      "extensionLib": "1.4",
-      "versionCode": 25,
-      "versionName": "1.4.25",
-      "sources": [
-        {
-          "id": "7893483872024027913",
-          "name": "MangaPuma",
-          "language": "en",
-          "homeUrl": "https://mangapuma.com",
-          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
-        }
-      ]
-    },
-    {
       "name": "MangaGeko",
       "packageName": "eu.kanade.tachiyomi.extension.en.mangarawclub",
       "resources": {
@@ -12187,26 +12047,6 @@
           "name": "MangaRead.org",
           "language": "en",
           "homeUrl": "https://www.mangaread.org",
-          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
-        }
-      ]
-    },
-    {
-      "name": "MangaSaga",
-      "packageName": "eu.kanade.tachiyomi.extension.en.mangasaga",
-      "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.mangasaga-v1.4.23.apk",
-        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangasaga.png"
-      },
-      "extensionLib": "1.4",
-      "versionCode": 23,
-      "versionName": "1.4.23",
-      "sources": [
-        {
-          "id": "6071998823270813958",
-          "name": "MangaSaga",
-          "language": "en",
-          "homeUrl": "https://mangasaga.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         }
       ]
@@ -12363,26 +12203,6 @@
           "name": "MangaTX",
           "language": "en",
           "homeUrl": "https://mangatx.cc",
-          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
-        }
-      ]
-    },
-    {
-      "name": "MangaXYZ",
-      "packageName": "eu.kanade.tachiyomi.extension.en.mangaxyz",
-      "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.mangaxyz-v1.4.23.apk",
-        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangaxyz.png"
-      },
-      "extensionLib": "1.4",
-      "versionCode": 23,
-      "versionName": "1.4.23",
-      "sources": [
-        {
-          "id": "4390997657042630109",
-          "name": "MangaXYZ",
-          "language": "en",
-          "homeUrl": "https://mangaxyz.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         }
       ]
@@ -12557,26 +12377,6 @@
           "name": "Manhuascan.us",
           "language": "en",
           "homeUrl": "https://manhuascan.us",
-          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
-        }
-      ]
-    },
-    {
-      "name": "ManhuaSite",
-      "packageName": "eu.kanade.tachiyomi.extension.en.manhuasite",
-      "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.manhuasite-v1.4.23.apk",
-        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.manhuasite.png"
-      },
-      "extensionLib": "1.4",
-      "versionCode": 23,
-      "versionName": "1.4.23",
-      "sources": [
-        {
-          "id": "3155231489395885927",
-          "name": "ManhuaSite",
-          "language": "en",
-          "homeUrl": "https://manhuasite.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         }
       ]

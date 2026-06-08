@@ -11260,12 +11260,12 @@
       "name": "MangaK",
       "packageName": "eu.kanade.tachiyomi.extension.en.mangabuddy",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.mangabuddy-v1.4.28.apk",
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.mangabuddy-v1.4.29.apk",
         "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangabuddy.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 28,
-      "versionName": "1.4.28",
+      "versionCode": 29,
+      "versionName": "1.4.29",
       "sources": [
         {
           "id": "5020395055978987501",
@@ -12400,12 +12400,12 @@
       "name": "Manhua Rush",
       "packageName": "eu.kanade.tachiyomi.extension.en.manhuarush",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.manhuarush-v1.4.1.apk",
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.manhuarush-v1.4.2.apk",
         "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.manhuarush.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 1,
-      "versionName": "1.4.1",
+      "versionCode": 2,
+      "versionName": "1.4.2",
       "sources": [
         {
           "id": "5670748624310603730",
@@ -15526,12 +15526,12 @@
       "name": "VyvyManga",
       "packageName": "eu.kanade.tachiyomi.extension.en.vyvymanga",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.vyvymanga-v1.4.39.apk",
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.vyvymanga-v1.4.40.apk",
         "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.vyvymanga.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 39,
-      "versionName": "1.4.39",
+      "versionCode": 40,
+      "versionName": "1.4.40",
       "sources": [
         {
           "id": "6958928548959982041",

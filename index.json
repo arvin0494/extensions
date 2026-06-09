@@ -8773,12 +8773,12 @@
       "name": "Comix",
       "packageName": "eu.kanade.tachiyomi.extension.en.comix",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.comix-v1.4.27.apk",
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.comix-v1.4.28.apk",
         "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.comix.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 27,
-      "versionName": "1.4.27",
+      "versionCode": 28,
+      "versionName": "1.4.28",
       "sources": [
         {
           "id": "7537715367149829912",
@@ -13142,6 +13142,26 @@
           "name": "MurimScan",
           "language": "en",
           "homeUrl": "https://www.murimscans.site",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
+      "name": "MyAdultComics",
+      "packageName": "eu.kanade.tachiyomi.extension.en.myadultcomics",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.myadultcomics-v1.4.1.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.myadultcomics.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 1,
+      "versionName": "1.4.1",
+      "sources": [
+        {
+          "id": "4116931674173505341",
+          "name": "MyAdultComics",
+          "language": "en",
+          "homeUrl": "https://myadultcomics.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         }
       ]
@@ -20890,12 +20910,12 @@
       "name": "Raijin Scans",
       "packageName": "eu.kanade.tachiyomi.extension.fr.raijinscans",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-fr.raijinscans-v1.4.64.apk",
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-fr.raijinscans-v1.4.65.apk",
         "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.fr.raijinscans.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 64,
-      "versionName": "1.4.64",
+      "versionCode": 65,
+      "versionName": "1.4.65",
       "sources": [
         {
           "id": "8373267671495516033",
@@ -20948,12 +20968,12 @@
       "name": "Scan-Manga",
       "packageName": "eu.kanade.tachiyomi.extension.fr.scanmanga",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-fr.scanmanga-v1.4.22.apk",
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-fr.scanmanga-v1.4.23.apk",
         "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.fr.scanmanga.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 22,
-      "versionName": "1.4.22",
+      "versionCode": 23,
+      "versionName": "1.4.23",
       "sources": [
         {
           "id": "2062108502806113139",
@@ -24162,6 +24182,25 @@
       ]
     },
     {
+      "name": "Kmansin09",
+      "packageName": "eu.kanade.tachiyomi.extension.ja.kmansin09",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.kmansin09-v1.4.50.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ja.kmansin09.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 50,
+      "versionName": "1.4.50",
+      "sources": [
+        {
+          "id": "4046163527731172053",
+          "name": "Kmansin09",
+          "language": "ja",
+          "homeUrl": "https://kmansin09.top"
+        }
+      ]
+    },
+    {
       "name": "Kumaraw",
       "packageName": "eu.kanade.tachiyomi.extension.ja.kumaraw",
       "resources": {
@@ -25466,21 +25505,21 @@
           "id": "5583626852311652499",
           "name": "\ub291\ub300\ub2f7\ucef4 - \uc6f9\ud230",
           "language": "ko",
-          "homeUrl": "https://wfwf462.com",
+          "homeUrl": "https://wfwf463.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         },
         {
           "id": "7074060458114951398",
           "name": "\ub291\ub300\ub2f7\ucef4 - \ub9cc\ud654\ucc45",
           "language": "ko",
-          "homeUrl": "https://wfwf462.com",
+          "homeUrl": "https://wfwf463.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         },
         {
           "id": "4225505094399546613",
           "name": "\ub291\ub300\ub2f7\ucef4 - \ud3ec\ud1a0\ud230",
           "language": "ko",
-          "homeUrl": "https://wfwf462.com",
+          "homeUrl": "https://wfwf463.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         }
       ]
@@ -27808,12 +27847,12 @@
       "name": "HenChan",
       "packageName": "eu.kanade.tachiyomi.extension.ru.henchan",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ru.henchan-v1.4.45.apk",
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ru.henchan-v1.4.46.apk",
         "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ru.henchan.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 45,
-      "versionName": "1.4.45",
+      "versionCode": 46,
+      "versionName": "1.4.46",
       "sources": [
         {
           "id": "5504588601186153612",
@@ -27888,12 +27927,12 @@
       "name": "MangaChan",
       "packageName": "eu.kanade.tachiyomi.extension.ru.mangachan",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ru.mangachan-v1.4.20.apk",
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ru.mangachan-v1.4.21.apk",
         "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ru.mangachan.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 20,
-      "versionName": "1.4.20",
+      "versionCode": 21,
+      "versionName": "1.4.21",
       "sources": [
         {
           "id": "7",
@@ -28240,12 +28279,12 @@
       "name": "YaoiChan",
       "packageName": "eu.kanade.tachiyomi.extension.ru.yaoichan",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ru.yaoichan-v1.4.9.apk",
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ru.yaoichan-v1.4.10.apk",
         "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ru.yaoichan.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 9,
-      "versionName": "1.4.9",
+      "versionCode": 10,
+      "versionName": "1.4.10",
       "sources": [
         {
           "id": "2466512768990363955",
@@ -29013,12 +29052,12 @@
       "name": "Afrodit Scans",
       "packageName": "eu.kanade.tachiyomi.extension.tr.afroditscans",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-tr.afroditscans-v1.4.34.apk",
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-tr.afroditscans-v1.4.35.apk",
         "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.tr.afroditscans.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 34,
-      "versionName": "1.4.34",
+      "versionCode": 35,
+      "versionName": "1.4.35",
       "sources": [
         {
           "id": "4839000923958753250",
@@ -29206,12 +29245,12 @@
       "name": "Elder Manga",
       "packageName": "eu.kanade.tachiyomi.extension.tr.eldermanga",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-tr.eldermanga-v1.4.6.apk",
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-tr.eldermanga-v1.4.7.apk",
         "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.tr.eldermanga.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 6,
-      "versionName": "1.4.6",
+      "versionCode": 7,
+      "versionName": "1.4.7",
       "sources": [
         {
           "id": "5412929724953013469",
@@ -29225,12 +29264,12 @@
       "name": "Eski Mangalar",
       "packageName": "eu.kanade.tachiyomi.extension.tr.eskimangalar",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-tr.eskimangalar-v1.4.3.apk",
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-tr.eskimangalar-v1.4.4.apk",
         "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.tr.eskimangalar.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 3,
-      "versionName": "1.4.3",
+      "versionCode": 4,
+      "versionName": "1.4.4",
       "sources": [
         {
           "id": "455290087526139932",
@@ -29497,12 +29536,12 @@
       "name": "Limon Manga",
       "packageName": "eu.kanade.tachiyomi.extension.tr.limonmanga",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-tr.limonmanga-v1.4.3.apk",
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-tr.limonmanga-v1.4.4.apk",
         "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.tr.limonmanga.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 3,
-      "versionName": "1.4.3",
+      "versionCode": 4,
+      "versionName": "1.4.4",
       "sources": [
         {
           "id": "7878720572813992644",
@@ -30254,12 +30293,12 @@
       "name": "Tenshi Manga",
       "packageName": "eu.kanade.tachiyomi.extension.tr.tenshimanga",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-tr.tenshimanga-v1.4.5.apk",
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-tr.tenshimanga-v1.4.6.apk",
         "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.tr.tenshimanga.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 5,
-      "versionName": "1.4.5",
+      "versionCode": 6,
+      "versionName": "1.4.6",
       "sources": [
         {
           "id": "5906663076478194825",
@@ -30391,12 +30430,12 @@
       "name": "Uzay Manga",
       "packageName": "eu.kanade.tachiyomi.extension.tr.uzaymanga",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-tr.uzaymanga-v1.4.45.apk",
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-tr.uzaymanga-v1.4.46.apk",
         "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.tr.uzaymanga.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 45,
-      "versionName": "1.4.45",
+      "versionCode": 46,
+      "versionName": "1.4.46",
       "sources": [
         {
           "id": "9155782272853059412",
@@ -32336,12 +32375,12 @@
       "name": "92Manhua",
       "packageName": "eu.kanade.tachiyomi.extension.zh.jiuermanhua",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-zh.jiuermanhua-v1.4.12.apk",
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-zh.jiuermanhua-v1.4.13.apk",
         "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.zh.jiuermanhua.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 12,
-      "versionName": "1.4.12",
+      "versionCode": 13,
+      "versionName": "1.4.13",
       "sources": [
         {
           "id": "1520913911854846698",
@@ -32434,12 +32473,12 @@
       "name": "YKMH",
       "packageName": "eu.kanade.tachiyomi.extension.zh.manhuadui",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-zh.manhuadui-v1.4.30.apk",
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-zh.manhuadui-v1.4.31.apk",
         "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.zh.manhuadui.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 30,
-      "versionName": "1.4.30",
+      "versionCode": 31,
+      "versionName": "1.4.31",
       "sources": [
         {
           "id": "1637952806167036168",

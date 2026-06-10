@@ -10498,12 +10498,12 @@
       "name": "Kayn Scans",
       "packageName": "eu.kanade.tachiyomi.extension.en.kaynscans",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.kaynscans-v1.4.25.apk",
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.kaynscans-v1.4.26.apk",
         "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.kaynscans.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 25,
-      "versionName": "1.4.25",
+      "versionCode": 26,
+      "versionName": "1.4.26",
       "sources": [
         {
           "id": "3406901199711327034",
@@ -21634,18 +21634,19 @@
       "name": "Kiryuu",
       "packageName": "eu.kanade.tachiyomi.extension.id.kiryuu",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.kiryuu-v1.4.52.apk",
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.kiryuu-v1.4.53.apk",
         "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.kiryuu.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 52,
-      "versionName": "1.4.52",
+      "versionCode": 53,
+      "versionName": "1.4.53",
       "sources": [
         {
           "id": "3639673976007021338",
           "name": "Kiryuu",
           "language": "id",
-          "homeUrl": "https://v5.kiryuu.to"
+          "homeUrl": "https://v6.kiryuu.to",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         }
       ]
     },
@@ -25505,21 +25506,21 @@
           "id": "5583626852311652499",
           "name": "\ub291\ub300\ub2f7\ucef4 - \uc6f9\ud230",
           "language": "ko",
-          "homeUrl": "https://wfwf463.com",
+          "homeUrl": "https://wfwf464.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         },
         {
           "id": "7074060458114951398",
           "name": "\ub291\ub300\ub2f7\ucef4 - \ub9cc\ud654\ucc45",
           "language": "ko",
-          "homeUrl": "https://wfwf463.com",
+          "homeUrl": "https://wfwf464.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         },
         {
           "id": "4225505094399546613",
           "name": "\ub291\ub300\ub2f7\ucef4 - \ud3ec\ud1a0\ud230",
           "language": "ko",
-          "homeUrl": "https://wfwf463.com",
+          "homeUrl": "https://wfwf464.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         }
       ]
@@ -26528,12 +26529,12 @@
       "name": "Maid Scan",
       "packageName": "eu.kanade.tachiyomi.extension.pt.maidscan",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.maidscan-v1.4.60.apk",
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.maidscan-v1.4.61.apk",
         "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.maidscan.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 60,
-      "versionName": "1.4.60",
+      "versionCode": 61,
+      "versionName": "1.4.61",
       "sources": [
         {
           "id": "7624757094973334315",
@@ -27253,12 +27254,12 @@
       "name": "Roxinha",
       "packageName": "eu.kanade.tachiyomi.extension.pt.roxinha",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.roxinha-v1.4.1.apk",
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.roxinha-v1.4.2.apk",
         "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.roxinha.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 1,
-      "versionName": "1.4.1",
+      "versionCode": 2,
+      "versionName": "1.4.2",
       "sources": [
         {
           "id": "3961079268907869519",
@@ -27590,12 +27591,12 @@
       "name": "Vegitoons",
       "packageName": "eu.kanade.tachiyomi.extension.pt.vegitoons",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.vegitoons-v1.4.9.apk",
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.vegitoons-v1.4.10.apk",
         "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.vegitoons.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 9,
-      "versionName": "1.4.9",
+      "versionCode": 10,
+      "versionName": "1.4.10",
       "sources": [
         {
           "id": "7104462396017692362",
@@ -27610,12 +27611,12 @@
       "name": "Verdinha",
       "packageName": "eu.kanade.tachiyomi.extension.pt.verdinha",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.verdinha-v1.4.9.apk",
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.verdinha-v1.4.10.apk",
         "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.pt.verdinha.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 9,
-      "versionName": "1.4.9",
+      "versionCode": 10,
+      "versionName": "1.4.10",
       "sources": [
         {
           "id": "3410911112857734134",

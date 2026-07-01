@@ -12494,7 +12494,7 @@
             "id": "492596911850505683",
             "name": "ManhwaRead",
             "language": "en",
-            "homeUrl": "https://manhwaread.com#, https://manhwaread.org"
+            "homeUrl": "https://manhwaread.com"
           }
         ]
       },
@@ -25459,7 +25459,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "3795139541047356251",
+            "id": "7649412087005162215",
             "name": "Pluma Comics",
             "language": "pt-BR",
             "homeUrl": "https://plumacomics.cloud"

@@ -7682,16 +7682,16 @@
         "name": "Arc-Relight",
         "packageName": "eu.kanade.tachiyomi.extension.en.arcrelight",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.arcrelight-v1.4.15.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.arcrelight-v1.4.16.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.arcrelight.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "15",
-        "versionName": "1.4.15",
+        "versionCode": "16",
+        "versionName": "1.4.16",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "5982392657400941658",
+            "id": "6809555026902049727",
             "name": "Arc-Relight",
             "language": "en",
             "homeUrl": "https://arc-relight.com"
@@ -7842,16 +7842,16 @@
         "name": "Assorted Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.assortedscans",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.assortedscans-v1.4.17.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.assortedscans-v1.4.18.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.assortedscans.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "17",
-        "versionName": "1.4.17",
+        "versionCode": "18",
+        "versionName": "1.4.18",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "3924383824421398005",
+            "id": "8088090686762347480",
             "name": "Assorted Scans",
             "language": "en",
             "homeUrl": "https://assortedscans.com"
@@ -29299,8 +29299,8 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "4535869188674243344",
-            "name": "Goc Truyen Tranh",
+            "id": "8162695314495646445",
+            "name": "GocTruyenTranh",
             "language": "vi",
             "homeUrl": "https://goctruyentranh.com"
           }

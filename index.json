@@ -4178,12 +4178,6 @@
             "name": "MangaTaro",
             "language": "en",
             "homeUrl": "https://mangataro.org"
-          },
-          {
-            "id": "1304052096857017174",
-            "name": "MangaTaro",
-            "language": "pt-BR",
-            "homeUrl": "https://mangataro.org"
           }
         ]
       },
@@ -8948,7 +8942,7 @@
         "extensionLib": "1.4",
         "versionCode": "1",
         "versionName": "1.4.1",
-        "contentWarning": "CONTENT_WARNING_NSFW",
+        "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "3383118804501081522",
@@ -10188,7 +10182,7 @@
         "extensionLib": "1.4",
         "versionCode": "33",
         "versionName": "1.4.33",
-        "contentWarning": "CONTENT_WARNING_NSFW",
+        "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "2598579144085032375",
@@ -10388,7 +10382,7 @@
         "extensionLib": "1.4",
         "versionCode": "1",
         "versionName": "1.4.1",
-        "contentWarning": "CONTENT_WARNING_NSFW",
+        "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "809292874146405153",
@@ -21520,7 +21514,7 @@
         "extensionLib": "1.4",
         "versionCode": "1",
         "versionName": "1.4.1",
-        "contentWarning": "CONTENT_WARNING_NSFW",
+        "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "2623577517578458051",
@@ -21700,7 +21694,7 @@
         "extensionLib": "1.4",
         "versionCode": "3",
         "versionName": "1.4.3",
-        "contentWarning": "CONTENT_WARNING_NSFW",
+        "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "7341666123577520203",
@@ -21886,7 +21880,7 @@
             "id": "516402804198118822",
             "name": "Comic Ryu",
             "language": "ja",
-            "homeUrl": "https://www.comic-ryu.jp"
+            "homeUrl": "https://comic-ryu.jp"
           }
         ]
       },
@@ -22066,7 +22060,7 @@
         "extensionLib": "1.4",
         "versionCode": "1",
         "versionName": "1.4.1",
-        "contentWarning": "CONTENT_WARNING_NSFW",
+        "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "124967435702149192",
@@ -22126,7 +22120,7 @@
         "extensionLib": "1.4",
         "versionCode": "1",
         "versionName": "1.4.1",
-        "contentWarning": "CONTENT_WARNING_NSFW",
+        "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "813084616937908482",
@@ -22706,7 +22700,7 @@
         "extensionLib": "1.4",
         "versionCode": "1",
         "versionName": "1.4.1",
-        "contentWarning": "CONTENT_WARNING_NSFW",
+        "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "3806352284314527898",
@@ -23306,7 +23300,7 @@
         "extensionLib": "1.4",
         "versionCode": "1",
         "versionName": "1.4.1",
-        "contentWarning": "CONTENT_WARNING_NSFW",
+        "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "424606783143704524",
@@ -23460,19 +23454,19 @@
         "name": "Twi4",
         "packageName": "eu.kanade.tachiyomi.extension.ja.twi4",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.twi4-v1.4.6.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.twi4-v1.4.7.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ja.twi4.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "6",
-        "versionName": "1.4.6",
+        "versionCode": "7",
+        "versionName": "1.4.7",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "493846804748918744",
             "name": "Twi4",
             "language": "ja",
-            "homeUrl": "https://sai-zen-sen.jp/comics/twi4/"
+            "homeUrl": "https://sai-zen-sen.jp/comics/twi4"
           }
         ]
       },
@@ -23632,7 +23626,7 @@
         "extensionLib": "1.4",
         "versionCode": "1",
         "versionName": "1.4.1",
-        "contentWarning": "CONTENT_WARNING_NSFW",
+        "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "4709947565690324919",

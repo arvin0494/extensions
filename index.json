@@ -2229,6 +2229,26 @@
         ]
       },
       {
+        "name": "HentaiLoop",
+        "packageName": "eu.kanade.tachiyomi.extension.all.hentailoop",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-all.hentailoop-v1.4.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.hentailoop.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "1",
+        "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "3077154580363219152",
+            "name": "HentaiLoop",
+            "language": "all",
+            "homeUrl": "https://hentailoop.com"
+          }
+        ]
+      },
+      {
         "name": "HentaiRox",
         "packageName": "eu.kanade.tachiyomi.extension.all.hentairox",
         "resources": {
@@ -6184,12 +6204,12 @@
         "name": "Webtoons.com",
         "packageName": "eu.kanade.tachiyomi.extension.all.webtoons",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-all.webtoons-v1.4.55.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-all.webtoons-v1.4.56.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.webtoons.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "55",
-        "versionName": "1.4.55",
+        "versionCode": "56",
+        "versionName": "1.4.56",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -11147,12 +11167,12 @@
         "name": "Manga District",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangadistrict",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.mangadistrict-v1.4.67.apk",
+          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.mangadistrict-v1.4.68.apk",
           "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangadistrict.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "67",
-        "versionName": "1.4.67",
+        "versionCode": "68",
+        "versionName": "1.4.68",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
